@@ -47,7 +47,7 @@ const Projects = () => {
       description: "SUPER SHOES é um carrossel interativo desenvolvido em React que exibe uma coleção de tênis esportivos. Este projeto demonstra técnicas modernas de desenvolvimento front-end utilizando React Hooks para criar uma experiência de usuário fluida e responsiva.",
       technologies: ["React","JavaScript", "HTML5", "CSS3"],
       image: "/src/assets/images/super.png",
-      liveDemo: "https://zerogallo.github.io/carrossel/",
+      liveDemo: "",
       sourceCode: "https://github.com/Zerogallo/carrossel?tab=readme-ov-file"
     },
      {
@@ -56,7 +56,7 @@ const Projects = () => {
       description: "Um portfólio moderno e responsivo desenvolvido com React.js e Vite para showcase dos meus projetos e habilidades.",
       technologies: ["React","JavaScript", "HTML5", "CSS3"],
       image: "/src/assets/images/cad.PNG",
-      liveDemo: "https://zerogallo.github.io/NovoPortf-lio/",
+      liveDemo: "",
       sourceCode: "https://github.com/Zerogallo/NovoPortf-lio"
     }
   ]
